@@ -1,5 +1,5 @@
 # msds-fall-2024
-This is my **first repository**, created to containing classwork and collaborations/projects from the **fall 2024 semester**. 
+This is my **first repository**, created to contain classwork and collaborations or projects from the **fall 2024 semester**. 
 
 ## DS 5100   | Programming for Data Science   | Prof. Raf Alvarado 
 **class time**   Tuesdays 8:30pm - 9:30pm <br>
